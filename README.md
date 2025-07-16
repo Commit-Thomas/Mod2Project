@@ -1,5 +1,19 @@
-# Mod2Project
+# Department of Health and Mental Hygiene Analysis
 
-test
+## Project Overview
+We're assisting the Department of Health and Mental Hygiene within NYC to explore which areas need medicine most. We investigated the data to gain further insight of boroughs in NYC and their frequency of influenza/pneumonia visits.
 
-test2
+# Which borough needs more influenza/pneumonia medication?
+
+## Data Cleaning
+
+-Took a random sample of 1000 encounters in the hospital.
+-Removed time column
+-Changed "date" column to DateTime for our visualizations
+-Renamed "mod_zcta" to "zip_code" for legibility
+-Created new column for "borough" by filtering through "zip_code" column
+
+
+## Medical Analysis
+
+## 
