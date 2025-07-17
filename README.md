@@ -26,10 +26,10 @@ We're assisting the Department of Health and Mental Hygiene within NYC to explor
 <br/>
 <img width="582" height="436" alt="Screenshot 2025-07-17 at 11 23 30 AM" src="https://github.com/user-attachments/assets/d58849fc-a775-4c5d-a0e3-1517ad485429" />
 <br/>
-<img width="904" height="722" alt="Screenshot 2025-07-17 at 11 22 55 AM" src="https://github.com/user-attachments/assets/782258ac-73ae-4be0-816e-9ec1c75b0133" />
+<img width="804" height="622" alt="Screenshot 2025-07-17 at 11 22 55 AM" src="https://github.com/user-attachments/assets/782258ac-73ae-4be0-816e-9ec1c75b0133" />
 <br/>
 3. Brooklyn's pneumonia/influenza visits has had the **HIGHEST RATE** of increase between all boroughs from the years 2020-2022. <br/>
-<img width="1154" height="712" alt="Screenshot 2025-07-17 at 11 23 16 AM" src="https://github.com/user-attachments/assets/42cbd123-1e75-4856-b845-d5f72751e8d4" />
+<img width="1054" height="612" alt="Screenshot 2025-07-17 at 11 23 16 AM" src="https://github.com/user-attachments/assets/42cbd123-1e75-4856-b845-d5f72751e8d4" />
 <br/>
 
 ## As shown in our analysis, Brooklyn is most in need of influenza/pneumonia medicine
