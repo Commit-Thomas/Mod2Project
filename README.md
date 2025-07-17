@@ -52,8 +52,12 @@ The **severity** of infleunza/pneumonia visits, as Brooklyn had the most admissi
 The **frequency**  of visits due to influenza/pneumonia as shown in analysis 2.
 
 **Over time**, Brooklyn has consistently had the **highest** trajectory over the past two years as shown on analysis 3.
+
+<br/>
 <br/>
 Link to Tableau: https://public.tableau.com/app/profile/thomas.segal/viz/Book1_17526901770690/Dashboard?publish=yes
+
+<br/>
 <br/>
 ## Reflection:
 - We focused mainly on visits as frequency highlights the demand for medication in a borough. <br/>
