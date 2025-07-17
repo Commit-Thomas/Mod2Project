@@ -43,13 +43,13 @@ We're assisting the Department of Health and Mental Hygiene within NYC to explor
 
 <br/>
 
-### The severity of infleunza/pneumonia visits, as Brooklyn had the most admissions as shown in analysis 1.
+The **severity** of infleunza/pneumonia visits, as Brooklyn had the most admissions as shown in analysis 1.
 
 <br/>
 
-### The frequency of visits due to influenza/pneumonia as shown in analysis 2.
+The **frequency**  of visits due to influenza/pneumonia as shown in analysis 2.
 
 <br/>
 
-### Over time, Brooklyn has consistently had the highest trajectory over the past two years as shown on analysis 3.
+**Over time**, Brooklyn has consistently had the **highest** trajectory over the past two years as shown on analysis 3.
 
