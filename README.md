@@ -25,18 +25,24 @@ We're assisting the Department of Health and Mental Hygiene within NYC to explor
 <br/>
 <img width="582" height="436" alt="Screenshot 2025-07-17 at 11 23 30 AM" src="https://github.com/user-attachments/assets/d58849fc-a775-4c5d-a0e3-1517ad485429" />
 <br/>
+<br/>
 2. Brooklyn has the **HIGHEST** number of pneumonia/infleunza admissions.
-
 <br/>
-3. Brooklyn's pneumonia/influenza visits has had the **HIGHEST RATE** of increase between all boroughs from the years 2020-2022. <br/>
-<img width="1054" height="612" alt="Screenshot 2025-07-17 at 11 23 16 AM" src="https://github.com/user-attachments/assets/42cbd123-1e75-4856-b845-d5f72751e8d4" />
 <br/>
-
+<img width="792" height="602" alt="Screenshot 2025-07-17 at 11 35 21 AM" src="https://github.com/user-attachments/assets/d06bb7e9-70a1-4b37-a049-6bd0f7b9f2fb" />
+<br/>
+<br/>
+3. Brooklyn's pneumonia/influenza visits has had the **HIGHEST RATE** of increase between all boroughs from the years 2020-2022.
+<br/>
+<br/>
+<img width="954" height="512" alt="Screenshot 2025-07-17 at 11 23 16 AM" src="https://github.com/user-attachments/assets/42cbd123-1e75-4856-b845-d5f72751e8d4" />
+<br/>
+<br/>
 ## As shown in our analysis, we recommend sending more influenza/pneumonia medicine to Brooklyn due to:
-
-### The severity of infleunza/pneumonia visits, as Brooklyn had the most admissions.
-
-### The frequency of visits due to influenza/pneumonia.
-
-### Over time, Brooklyn has consistently had the highest trajectory over the past two years.
+<br/>
+### The severity of infleunza/pneumonia visits, as Brooklyn had the most admissions as shown in analysis 1.
+<br/>
+### The frequency of visits due to influenza/pneumonia as shown in analysis 2.
+<br/>
+### Over time, Brooklyn has consistently had the highest trajectory over the past two years as shown on analysis 3.
 
