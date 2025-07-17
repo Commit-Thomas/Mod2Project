@@ -62,8 +62,10 @@ Link to Tableau: https://public.tableau.com/app/profile/thomas.segal/viz/Book1_1
 <br/>
 
 ## Reflection:
+<br/>
+
 - We focused mainly on visits as frequency highlights the demand for medication in a borough. <br/>
-- Our most important insight is the understanding of why boroughs have the numbers they do. We then were able to specify which borough needs the most medicine.
+- Our most important insight is the understanding of why boroughs have the numbers they do. We then were able to specify which borough needs the most medicine. <br/>
 
 ### Linked Ins:
 Thomas: https://www.linkedin.com/in/thomas-segal-093370369
