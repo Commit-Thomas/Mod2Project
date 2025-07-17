@@ -20,7 +20,7 @@ We're assisting the Department of Health and Mental Hygiene within NYC to explor
 
 # Medical Analysis
 <br/>
-1. Brooklyn has the **HIGHEST** number of pneumonia/infleunza visits.
+1. Brooklyn has the **HIGHEST number of pneumonia/infleunza visits.
 <br/>
 <br/>
 <img width="582" height="436" alt="Screenshot 2025-07-17 at 11 23 30 AM" src="https://github.com/user-attachments/assets/d58849fc-a775-4c5d-a0e3-1517ad485429" />
@@ -38,11 +38,18 @@ We're assisting the Department of Health and Mental Hygiene within NYC to explor
 <img width="954" height="512" alt="Screenshot 2025-07-17 at 11 23 16 AM" src="https://github.com/user-attachments/assets/42cbd123-1e75-4856-b845-d5f72751e8d4" />
 <br/>
 <br/>
+
 ## As shown in our analysis, we recommend sending more influenza/pneumonia medicine to Brooklyn due to:
+
 <br/>
+
 ### The severity of infleunza/pneumonia visits, as Brooklyn had the most admissions as shown in analysis 1.
+
 <br/>
+
 ### The frequency of visits due to influenza/pneumonia as shown in analysis 2.
+
 <br/>
+
 ### Over time, Brooklyn has consistently had the highest trajectory over the past two years as shown on analysis 3.
 
