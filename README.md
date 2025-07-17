@@ -19,7 +19,6 @@ We're assisting the Department of Health and Mental Hygiene within NYC to explor
 <br/>
 
 # Medical Analysis
-<br/>
 1. Brooklyn has the **HIGHEST number of pneumonia/infleunza visits.
 <br/>
 <br/>
@@ -55,5 +54,7 @@ The **frequency**  of visits due to influenza/pneumonia as shown in analysis 2.
 
 ### Linked Ins:
 Thomas: https://www.linkedin.com/in/thomas-segal-093370369
+<br/>
 Vincent: https://www.linkedin.com/in/thevinceperez/
-
+<br/>
+Used for dataset for educational purposes.
