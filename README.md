@@ -47,9 +47,10 @@ We're assisting the Department of Health and Mental Hygiene within NYC to explor
 
 ## As shown in our analysis, we recommend sending more influenza/pneumonia medicine to Brooklyn due to:
 The **severity** of infleunza/pneumonia visits, as Brooklyn had the most admissions as shown in analysis 1.
-<br/>
 
+<br/>
 The **frequency**  of visits due to influenza/pneumonia as shown in analysis 2.
+<br/>
 
 **Over time**, Brooklyn has consistently had the **highest** trajectory over the past two years as shown on analysis 3.
 
@@ -59,6 +60,7 @@ Link to Tableau: https://public.tableau.com/app/profile/thomas.segal/viz/Book1_1
 
 <br/>
 <br/>
+
 ## Reflection:
 - We focused mainly on visits as frequency highlights the demand for medication in a borough. <br/>
 - Our most important insight is the understanding of why boroughs have the numbers they do. We then were able to specify which borough needs the most medicine.
