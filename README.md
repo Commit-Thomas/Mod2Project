@@ -7,7 +7,8 @@ We're assisting the Department of Health and Mental Hygiene within NYC to explor
 
 ## Data Cleaning
 
-- Took a random sample of 1000 encounters in the hospital between the years of 2020-2022.
+- Took a random sample of 50,000 encounters in the hospital between the years of 2020-2022.
+- Crossed referenced our sample with larger data set to check for similar ratios of boroughs and zip codes. (zip code 10000 is least represented)
 - Removed time from "date" column for more utility.
 - Changed "date" column to DateTime for our visualizations.
 - Renamed "mod_zcta" to "zip_code" for legibility.
@@ -17,11 +18,8 @@ We're assisting the Department of Health and Mental Hygiene within NYC to explor
 
 1. Brooklyn has the **HIGHEST** number of pneumonia/infleunza visits and admissions.
 
-2. Brooklyn has the **HIGHEST** percentage of admissions vs visits.
-
-3. Brooklyn's pneumonia/influenza visits has had the **highest rate** of increase between all boroughs from the years 2020-2022.
-
-4. Of the top 5 zip codes with highest pneumonia/influenza vists, Brooklyn accounts for **60%** and has the **highest plurality** in the top 10 visits with 4 instances.
+2. Brooklyn's pneumonia/influenza visits has had the **HIGHEST RATE** of increase between all boroughs from the years 2020-2022.
 
 
 ## As shown in our analysis, Brooklyn is most in need of influenza/pneumonia medicine
+
