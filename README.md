@@ -18,7 +18,7 @@ We're assisting the Department of Health and Mental Hygiene within NYC to explor
 <img width="205" height="131" alt="Screenshot 2025-07-17 at 10 59 37 AM" src="https://github.com/user-attachments/assets/0ac68e00-08e5-4750-bc49-e6a572fa71a1" />
 <br/>
 
-# Medical Analysis
+## Medical Analysis
 1. Brooklyn has the **HIGHEST** number of pneumonia/infleunza visits.
 
 <br/>
